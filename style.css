@@ -1,0 +1,17 @@
+#parent-1{
+    height: 450px;
+}
+#images{
+    height: 100%;
+    object-fit: cover;
+    filter: brightness(0.5);
+
+}
+#text{
+    margin-top: 160px;
+}
+#fluids{
+    height: 25vh;
+    background-color: blanchedalmond;
+
+}
